@@ -3,9 +3,16 @@ C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Api.runtimeconfi
 C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Api.runtimeconfig.dev.json
 C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Api.dll
 C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Api.pdb
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Comum.dll
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Dominio.dll
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Infra.dll
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Dominio.pdb
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Infra.pdb
+C:\dev\climap-api\src\Climap.Api\bin\Debug\netcoreapp2.0\Climap.Comum.pdb
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.csprojAssemblyReference.cache
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.csproj.CoreCompileInputs.cache
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.AssemblyInfoInputs.cache
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.AssemblyInfo.cs
+C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.csproj.CopyComplete
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.dll
 C:\dev\climap-api\src\Climap.Api\obj\Debug\netcoreapp2.0\Climap.Api.pdb

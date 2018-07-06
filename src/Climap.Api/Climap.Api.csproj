@@ -9,7 +9,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="7.6.103" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Climap.Dominio\Climap.Dominio.csproj" />
+    <ProjectReference Include="..\Climap.Infra\Climap.Infra.csproj" />
   </ItemGroup>
 
 </Project>
