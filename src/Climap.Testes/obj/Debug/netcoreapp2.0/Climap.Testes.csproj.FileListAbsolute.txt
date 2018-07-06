@@ -1,0 +1,14 @@
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Climap.Testes.deps.json
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Climap.Testes.runtimeconfig.json
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Climap.Testes.runtimeconfig.dev.json
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Climap.Testes.dll
+C:\dev\climap-api\src\Climap.Testes\bin\Debug\netcoreapp2.0\Climap.Testes.pdb
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.csprojAssemblyReference.cache
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.csproj.CoreCompileInputs.cache
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.AssemblyInfoInputs.cache
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.AssemblyInfo.cs
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.dll
+C:\dev\climap-api\src\Climap.Testes\obj\Debug\netcoreapp2.0\Climap.Testes.pdb

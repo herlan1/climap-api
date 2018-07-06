@@ -1,0 +1,9 @@
+C:\dev\climap-api\src\Climap.Infra\bin\Debug\netstandard2.0\Climap.Infra.deps.json
+C:\dev\climap-api\src\Climap.Infra\bin\Debug\netstandard2.0\Climap.Infra.dll
+C:\dev\climap-api\src\Climap.Infra\bin\Debug\netstandard2.0\Climap.Infra.pdb
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.csprojAssemblyReference.cache
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.csproj.CoreCompileInputs.cache
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.AssemblyInfoInputs.cache
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.AssemblyInfo.cs
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.dll
+C:\dev\climap-api\src\Climap.Infra\obj\Debug\netstandard2.0\Climap.Infra.pdb
